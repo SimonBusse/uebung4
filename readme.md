@@ -56,10 +56,14 @@ Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Element
 Welche der folgenden Aussagen ist korrekt?
 ![Aufgabe 6](https://github.com/Reitz86/uebung4/raw/master/aufgabe6.JPG)
 
-1. Sobald w zerstört wird, dann wird auch z zerstört.
-2. Sobald z zerstört wird, dann wird auch w zerstört.
-3. Zu einem bestimmten Zeitpunkt kann eine Instanz von z in genau einer Instanz von w enthalten sein.
-4. Zu einem bestimmten Zeitpunkt kann eine Instanz von z in mehreren Instanzen von w enthalten sein.
+**1. Sobald w zerstört wird, dann wird auch z zerstört.**
+
+~~2. Sobald z zerstört wird, dann wird auch w zerstört.~~
+
+**3. Zu einem bestimmten Zeitpunkt kann eine Instanz von z in genau einer Instanz von w enthalten sein.**
+
+~~4. Zu einem bestimmten Zeitpunkt kann eine Instanz von z in mehreren Instanzen von w enthalten sein.~~
+
 
 ## Aufgabe 7
 Schauen Sie sich die Java Dateien im Ordner RobotAdapter an: Die Spielfiguren in einem Computerspiel müssen alle das Interface Spieler implementieren. Die Klasse Human tut dies. Nun hat eine Zulieferfirma den Code für einen Roboter geschrieben (Robot.java). Leider haben Sie auf diesen keinen Einfluss und müssen den Roboter so in ihr Spiel integrieren. Welches Pattern eignet sich dafür? Implementieren Sie den entsprechenden Code.
