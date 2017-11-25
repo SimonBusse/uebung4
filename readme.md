@@ -5,6 +5,7 @@ Viel Erfolg!
 
 
 ## Aufgabe 1
+![Aufgabe 1](https://github.com/SimonBusse/uebung4/raw/master/aufgabe1.JPG)
 
 
 ## Aufgabe 2
