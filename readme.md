@@ -5,23 +5,16 @@ Viel Erfolg!
 
 
 ## Aufgabe 1
-Entwerfen Sie ein Anwendungsfalldiagramm zu der folgenden Beschreibung:
-In einem Kino kann ein Gast Kinokarten an der Kasse kaufen, die vorbestellt sein könnten. Außerdem
-ist es möglich Popcorn und Getränke zu bestellen. Danach bezahlt der Kunde beim Kassierer die
-Rechnung. Es ist auch möglich mit Kreditkarte zu bezahlen, welche bei Bedarf einer automatischen
-Prüfung unterzogen werden kann.
+
 
 ## Aufgabe 2
-Entwerfen Sie ein Zustandsdiagramm, das folgenden Sachverhalt über die Bestellung eines Blumenstraußes
-über das Internet beschreibt:
-Die über das Internet aufgegebenen Bestellungen werden zuerst vom Kundencenter überprüft. Sind
-die Bestelldaten nicht korrekt oder ist die Bestellung nicht plausibel, so nimmt das Kundencenter mit
-dem entsprechenden Kunden Kontakt auf, um die offenen Fragen zu klären. Ist mit der Bestellung alles
-in Ordnung, bzw. sind die offenen Fragen geklärt, dann stellt die Floristin mit Hilfe der Bestelldaten
-den Strauß zusammen. Sobald der Strauÿ fertig ist, wird er vom Lieferdienst an die auf der Bestellung
-vermerkte Adresse geliefert.
 
-### Entwerfen Sie zu diesem Beispiel auch ein Aktivitätsdiagramm. Erkennen Sie die Unterschiede?
+####Zustandsdiagramm:
+
+####Aktivitätsdiagramm:
+
+####Unterschiede:
+
 
 ## Aufgabe 3
 Welche der folgenden Aussagen über ein Interface ist korrekt?
@@ -55,6 +48,7 @@ Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Element
 ## Aufgabe 6
 Welche der folgenden Aussagen ist korrekt?
 ![Aufgabe 6](https://github.com/Reitz86/uebung4/raw/master/aufgabe6.JPG)
+
 
 **1. Sobald w zerstört wird, dann wird auch z zerstört.**
 
