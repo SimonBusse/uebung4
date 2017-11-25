@@ -9,11 +9,11 @@ Viel Erfolg!
 
 ## Aufgabe 2
 
-####Zustandsdiagramm:
+#### Zustandsdiagramm:
 
-####Aktivitätsdiagramm:
+#### Aktivitätsdiagramm:
 
-####Unterschiede:
+#### Unterschiede:
 
 
 ## Aufgabe 3
