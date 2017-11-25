@@ -1,4 +1,4 @@
-# Übung 4
+﻿# Übung 4
 Bitte forken Sie sich das Repository. In ihren Fork checken Sie bitte den Quellcode ihrer Lösung ein. Die Fragen können Sie in einer einfachen Textdatei beantworten oder auch gerne direkt in der readme.md einfügen (aber bitte kenntlich machen. Also markieren!). Die Lösungen zu den Diagrammen checken Sie bitte als separate Bilder ein. Der Link zu ihrem Repository mit der Angabe ihres letzten Commits (der Hash) ist bis zur Abgabe per Mail einzureichen.
 
 Viel Erfolg!
