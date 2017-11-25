@@ -25,10 +25,15 @@ vermerkte Adresse geliefert.
 
 ## Aufgabe 3
 Welche der folgenden Aussagen über ein Interface ist korrekt?
+
 ~~1. Ein Interface kann private Attribute besitzen~~
+
 **2. Ein Interface kann andere Interfaces redefinieren**
+
 ~~3. Alle Merkmale eines Interface müssen die Sichtbarkeit "private" haben~~
+
 ~~4. Ein Interface kann keine Attribute haben~~
+
 
 ## Aufgabe 4
 Welche Aussagen sind korrekt?
@@ -40,6 +45,7 @@ Welche Aussagen sind korrekt?
 ~~3. An interface may be implemented by at most one classifier, and one classifier may implement at most one interface.~~
  
 **4. An interface may be implemented by at most one classifier, but one classifier may implement multiple interfaces.**
+
 
 ## Aufgabe 5
 Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Elemente an.
