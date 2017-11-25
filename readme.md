@@ -36,6 +36,7 @@ Welche Aussagen sind korrekt?
 ~~2. An Interface may be implemented by multiple classifiers, and one classifier may implement multiple interfaces.~~
 ~~3. An interface may be implemented by at most one classifier, and one classifier may implement at most one interface.~~
 **4. An interface may be implemented by at most one classifier, but one classifier may implement multiple interfaces.**
+4. An interface may be implemented by at most one classifier, but one classifier may implement multiple interfaces.
 
 ## Aufgabe 5
 Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Elemente an.
