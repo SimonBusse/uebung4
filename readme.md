@@ -43,12 +43,12 @@ Welche Aussagen sind korrekt?
 
 ## Aufgabe 5
 Geben Sie in der folgenden Abbildung die Bezeichnungen der dargestellten Elemente an.
-![Aufgabe 5](https://github.com/Reitz86/uebung4/raw/master/aufgabe5.JPG)
+![Aufgabe 5](https://github.com/SimonBusse/uebung4/raw/master/aufgabe5.JPG)
 
 
 ## Aufgabe 6
 Welche der folgenden Aussagen ist korrekt?
-![Aufgabe 6](https://github.com/Reitz86/uebung4/raw/master/aufgabe6.JPG)
+![Aufgabe 6](https://github.com/SimonBusse/uebung4/raw/master/aufgabe6.JPG)
 
 
 **1. Sobald w zerstört wird, dann wird auch z zerstört.**
