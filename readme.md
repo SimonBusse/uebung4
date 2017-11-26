@@ -17,7 +17,8 @@ Viele Grüße
 ![Aufgabe 2b](https://github.com/SimonBusse/uebung4/raw/master/aufgabe2b.JPG)
 
 #### Unterschiede:
-
+Im Zustandsdiagramm ist nur der aktuelle State von Bedeutung, auf die Übergänge wird nicht genau geachtet. 
+Im Aktivitätsdiagramm wird auf die Übergänge, aber nicht auf den State geachtet.	
 
 
 ## Aufgabe 3
@@ -25,7 +26,7 @@ Welche der folgenden Aussagen über ein Interface ist korrekt?
 
 ~~1. Ein Interface kann private Attribute besitzen~~
 
-**2. Ein Interface kann andere Interfaces redefinieren**
+#### **2. Ein Interface kann andere Interfaces redefinieren**
 
 ~~3. Alle Merkmale eines Interface müssen die Sichtbarkeit "private" haben~~
 
@@ -41,7 +42,7 @@ Welche Aussagen sind korrekt?
  
 ~~3. An interface may be implemented by at most one classifier, and one classifier may implement at most one interface.~~
  
-## **4. An interface may be implemented by at most one classifier, but one classifier may implement multiple interfaces.**
+#### **4. An interface may be implemented by at most one classifier, but one classifier may implement multiple interfaces.**
 
 
 ## Aufgabe 5
@@ -54,11 +55,11 @@ Welche der folgenden Aussagen ist korrekt?
 ![Aufgabe 6](https://github.com/SimonBusse/uebung4/raw/master/aufgabe6.JPG)
 
 
-**1. Sobald w zerstört wird, dann wird auch z zerstört.**
+#### **1. Sobald w zerstört wird, dann wird auch z zerstört.**
 
 ~~2. Sobald z zerstört wird, dann wird auch w zerstört.~~
 
-**3. Zu einem bestimmten Zeitpunkt kann eine Instanz von z in genau einer Instanz von w enthalten sein.**
+#### **3. Zu einem bestimmten Zeitpunkt kann eine Instanz von z in genau einer Instanz von w enthalten sein.**
 
 ~~4. Zu einem bestimmten Zeitpunkt kann eine Instanz von z in mehreren Instanzen von w enthalten sein.~~
 
