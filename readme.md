@@ -11,10 +11,13 @@ Viele Grüße
 ## Aufgabe 2
 
 #### Zustandsdiagramm:
+![Aufgabe 2a](https://github.com/SimonBusse/uebung4/raw/master/aufgabe2a.JPG)
 
 #### Aktivitätsdiagramm:
+![Aufgabe 2b](https://github.com/SimonBusse/uebung4/raw/master/aufgabe2b.JPG)
 
 #### Unterschiede:
+
 
 
 ## Aufgabe 3
@@ -61,4 +64,4 @@ Welche der folgenden Aussagen ist korrekt?
 
 
 ## Aufgabe 7
-Die Datei RobotAdapter.java ist im entsprechenden Ordner. Ein Adapter-Pattern eignet sich hier am besten, da werden Klasse noch Interface geändert werden können.
+Die Datei RobotAdapter.java ist im entsprechenden Ordner. Ein Adapter-Pattern eignet sich hier am besten, da weder Klasse noch Interface geändert werden können.
