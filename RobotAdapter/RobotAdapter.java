@@ -1,7 +1,13 @@
 import Robot;
 
-public class RobotAdapter implements Spieler
-{
+public class RobotAdapter implements Spieler{
+	
+	Robot roboter;
+	
+	RobotAdapter(){
+		this.roboter = roboter;
+	}
+
     public int geheNachLinks(int distanz) {
 		int x = (int) Robot.getX() - distanz;
 		Robot.rolleNach(x,Robot.getY());
@@ -28,5 +34,4 @@ public class RobotAdapter implements Spieler
     
     public String getName() {
         return this.toString();
-    }
-}
+}}
